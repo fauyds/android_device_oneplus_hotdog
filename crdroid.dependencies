@@ -5,8 +5,9 @@
     "branch": "14.0-hotdog"
   },
   {
-    "repository": "crdroidandroid/proprietary_vendor_oneplus_hotdog",
+    "repository": "ShevT/proprietary_vendor_oneplus_hotdog",
     "target_path": "vendor/oneplus/hotdog",
-    "branch": "14.0-hotdog"
+    "branch": "14.0",
+    "remote": "crdroid-gitlab"
   }
 ]
